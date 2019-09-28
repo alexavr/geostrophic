@@ -27,7 +27,7 @@ Copy to your machine:
 ```bash
 git clone https://github.com/alexavr/geostrophic.git
 cd geostrophic
-vi Makefile]
+vi Makefile
 make
 ```
 
